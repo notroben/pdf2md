@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+build/
+*.spec
+
+dist/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Output directories
+output/
+*_markdown/
+typst_docs/
+
+# Sample PDFs and test files
+typst-documentation.pdf
+*.pdf
+
+# IDE files
+.vscode/
+.idea/
+.gemini/
